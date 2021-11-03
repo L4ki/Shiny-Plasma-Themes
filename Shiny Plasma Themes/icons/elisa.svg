@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="elisa.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="22-22-elisa">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       style="color:#d5c289;fill:#eff0f1;fill-opacity:1;stroke-width:0.941176"
+       class="ColorScheme-Text"
+       d="M 11.029412,3 C 6.865647,3 3.5,6.365647 3.5,10.529412 c 0,4.163765 3.365647,7.529411 7.529412,7.529411 4.163764,0 7.529412,-3.365646 7.529412,-7.529411 C 18.558824,6.365647 15.193176,3 11.029412,3 Z m 0,0.941176 c 3.642343,0 6.588235,2.945883 6.588235,6.588236 0,3.642343 -2.945892,6.588236 -6.588235,6.588236 -3.642363,0 -6.588236,-2.945893 -6.588236,-6.588236 0,-3.642353 2.945873,-6.588236 6.588236,-6.588236 z m 0.705873,5.382592 v 0 0 0 0 0 c 0,0 -0.03197,0.0075 0,0 z m -0.735056,4.235296 z"
+       id="path58-36"
+       sodipodi:nodetypes="ssssssssssccccccccccccccccc" />
+    <path
+       id="Playlist-7"
+       class="st0"
+       d="m 12.398395,5.310161 z m 0,0 z M 11.9877,12.428878 c 0.273797,-0.479145 0.410695,-1.060965 0.410695,-1.642781 H 8.63369 c -0.410696,0 -0.821391,0.06845 -1.232087,0.171122 -2.190374,0.547594 -3.593582,2.464171 -3.114438,4.278076 0.479144,1.813902 2.66952,2.806416 4.894118,2.224598 2.224599,-0.581818 3.627808,-2.498396 3.114438,-4.278074 -0.06844,-0.273798 -0.171123,-0.513371 -0.308021,-0.752941 z"
+       style="fill:#009fff;fill-opacity:1;stroke-width:0.342246"
+       sodipodi:nodetypes="ccccccccccccscsscc" />
+    <path
+       id="Playlist-s-5"
+       class="st1"
+       d="m 12.398395,5.310161 z m 0.684492,-1.368985 h -2.053475 v 10.267381 c 0,1.882353 -1.540108,3.422459 -3.422461,3.422459 V 19 c 2.635294,0 4.791444,-2.156151 4.791444,-4.791444 V 5.310161 h 0.684492 c 1.129412,0 2.053476,0.924064 2.053476,2.053475 h 1.368984 c 0,-1.882352 -1.540107,-3.42246 -3.42246,-3.42246 z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.342246"
+       sodipodi:nodetypes="cccccccccscsccscsccs" />
+  </g>
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <linearGradient
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5000005,0,0,1.5000005,3.999991,4.0000002)"
+       id="linearGradient9">
+      <stop
+         offset="0%"
+         style="stop-color:#303b3d; stop-opacity:1"
+         id="stop18" />
+      <stop
+         offset="100%"
+         style="stop-color:#bc985d; stop-opacity:1"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       x1="544.59967"
+       x2="544.59967"
+       y1="163.21237"
+       y2="176.77766"
+       gradientTransform="matrix(0.90654316,0,0,1.1030914,-485.25312,-172.13817)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient13">
+      <stop
+         offset="0%"
+         style="stop-color:#303b3d; stop-opacity:1"
+         id="stop18-6" />
+      <stop
+         offset="100%"
+         style="stop-color:#bc985d; stop-opacity:1"
+         id="stop20-7" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="9.8125"
+     inkscape:cx="-1.0191083"
+     inkscape:cy="13.757962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid907"
+       originx="-32"
+       originy="-10" />
+  </sodipodi:namedview>
+  <g
+     id="g4"
+     transform="matrix(0.52861192,0,0,0.52861192,-1.786165,-12.620193)" />
+  <g
+     id="g10"
+     transform="matrix(0.52861192,0,0,0.52861192,-1.786165,-12.620193)">
+    <g
+       id="g8" />
+  </g>
+  <g
+     id="g4-3"
+     transform="matrix(0.35240646,0,0,0.35240646,20.475859,-1.4133892)" />
+  <g
+     id="elisa"
+     transform="translate(-32,-10)">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect9" />
+    <path
+       style="color:#d5c289;fill:#eff0f1;fill-opacity:1;stroke-width:1.5"
+       class="ColorScheme-Text"
+       d="M 16,4 C 9.364,4 4,9.364 4,16 4,22.636 9.364,28 16,28 22.636,28 28,22.636 28,16 28,9.364 22.636,4 16,4 Z m 0,1.5 c 5.804985,0 10.5,4.695 10.5,10.5 0,5.804985 -4.695015,10.5 -10.5,10.5 C 10.194985,26.5 5.5,21.804985 5.5,16 5.5,10.195 10.194985,5.5 16,5.5 Z m 1.124985,8.578505 v 0 0 0 0 0 c 0,0 -0.05095,0.012 0,0 z M 15.95349,20.82851 Z"
+       id="path58"
+       sodipodi:nodetypes="ssssssssssccccccccccccccccc" />
+    <path
+       id="Playlist"
+       class="st0"
+       d="m 18.181817,7.6818185 z m 0,0 z M 17.527272,19.027273 c 0.436364,-0.763636 0.654545,-1.69091 0.654545,-2.618182 h -5.999999 c -0.654546,0 -1.309092,0.109086 -1.963638,0.272727 C 6.727272,17.554546 4.490908,20.609091 5.254544,23.5 c 0.763636,2.890909 4.254547,4.472727 7.800001,3.545455 3.545454,-0.927273 5.781818,-3.981819 4.963636,-6.818182 -0.109085,-0.436363 -0.272728,-0.818182 -0.490909,-1.2 z"
+       style="fill:#009fff;fill-opacity:1;stroke-width:0.545454"
+       sodipodi:nodetypes="ccccccccccccscsscc" />
+    <path
+       id="Playlist-s"
+       class="st1"
+       d="M 18.181817,7.6818185 Z M 19.272726,5.5 H 16 v 16.363636 c 0,3.000001 -2.454547,5.454545 -5.454547,5.454545 V 29.5 c 4.2,0 7.636364,-3.436364 7.636364,-7.636364 V 7.6818185 h 1.090909 c 1.8,0 3.272728,1.4727275 3.272728,3.2727265 h 2.181817 C 24.727271,7.9545462 22.272726,5.5 19.272726,5.5 Z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.545454"
+       sodipodi:nodetypes="cccccccccscsccscsccs" />
+  </g>
+</svg>
