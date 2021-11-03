@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="136.53334"
+   height="136.53334"
+   id="svg5048"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="restart_primary.svg"
+   viewBox="0 0 128 128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5050">
+    <filter
+       id="filter4004-4"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-0"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-2"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-1"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-3"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter4004-44"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-8"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-0"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-5"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-6"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter4004-4-4"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-0-1"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-2-5"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-1-5"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-3-5"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3442"
+       id="linearGradient2045"
+       x1="4"
+       y1="15.134999"
+       x2="28.266666"
+       y2="15.134999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.6153842,0,0,4.6153842,-4.3630883,904.1256)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3442">
+      <stop
+         style="stop-color:#32b466;stop-opacity:1"
+         offset="0"
+         id="stop3438" />
+      <stop
+         style="stop-color:#008fb2;stop-opacity:1"
+         offset="1"
+         id="stop3440" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.10588235"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="64.125"
+     inkscape:cy="73.25"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#0000ff"
+       opacity="0.01960784"
+       empcolor="#0000ff"
+       empopacity="0.03921569"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5053">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.1297004,-913.75296)">
+    <path
+       id="Sync"
+       class="st0"
+       d="m 48.69847,922.17169 c 10.19998,-4.19998 21.39998,-5.2 32.400001,-3.2 8.999975,1.80002 17.399975,5.80002 24.399999,11.59999 l 12.59998,-12.59997 v 40 h -40 l 10.200021,-10.19998 c -5.2,-3.60005 -11.400021,-5.80002 -18.200021,-5.80002 -17.6,0 -32,14.4 -32,32 h -24 c 0,-11.00003 3.2,-22 9.40002,-31.2 6.19998,-9.2 14.99998,-16.20003 25.2,-20.60002 z m 52.99998,57.00002 c -2.59998,15.2 -15.799979,26.79979 -31.6,26.79979 -6.8,0 -12.99998,-2.2001 -18.19998,-5.7999 l 10.19998,-10.19989 h -40 v 39.99979 l 12.60002,-12.6001 c 4.59998,3.8001 10,6.8 15.6,9.0001 10.4,4 21.6,4.5999 32.400001,2.2 10.799999,-2.4 20.599979,-8.2 28.199979,-16.2 7.6,-8 12.60002,-18.19982 14.39999,-29.19979 l 0.8,-1.2 v -8 h -7.99999 v 8 z"
+       style="fill:url(#linearGradient2045);fill-opacity:1;stroke-width:2" />
+    <path
+       id="Sync-s"
+       class="st1"
+       d="m 80.09845,935.17171 c 5.000021,1.39997 9.800021,3.6 13.999996,6.8 l -5.799975,5.80002 c -3.2,-2.20002 -6.600025,-3.80002 -10.200021,-4.80005 -5.6,-1.39997 -11.39998,-1.39997 -16.8,0.19988 -5.39998,1.6 -10.4,4.60003 -14.4,8.8 -4,4.19998 -6.59998,9.39998 -8,14.8 l -7.79998,-1.80002 c 1.6,-6.99998 4.99998,-13.39998 10,-18.59998 4.99998,-5.2 11.2,-9.00002 18,-11.00002 6.8,-1.79998 14,-2 20.99998,-0.19988 z m 38,46.8 c 0,26.59969 -21.39998,47.99979 -48,47.99979 v 8 c 31.00002,0 55.99999,-25.0001 55.99999,-55.99979 z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:2" />
+  </g>
+</svg>
