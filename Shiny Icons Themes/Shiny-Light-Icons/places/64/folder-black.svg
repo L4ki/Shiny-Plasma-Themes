@@ -24,7 +24,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="3.4692426"
@@ -97,7 +97,7 @@
          offset="0.10902679"
          id="stop1027" />
       <stop
-         style="stop-color:#262626;stop-opacity:1"
+         style="stop-color:#1a1a1a;stop-opacity:1"
          offset="1"
          id="stop989" />
     </linearGradient>
