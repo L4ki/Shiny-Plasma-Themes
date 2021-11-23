@@ -26,3 +26,16 @@ Plasma Theme
 -------------
 
 Fixed widget: clock.svg
+
+Changelog: 24.11.2021.
+-----------------------
+
+Icons
+-----
+
+Fixed icons: places (32, 64)
+
+Plasma Theme
+-------------
+
+Fixed icon: system.svg
