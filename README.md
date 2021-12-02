@@ -39,3 +39,22 @@ Plasma Theme
 -------------
 
 Fixed icon: system.svg
+
+Changelog: 02.12.2021.
+-----------------------
+
+Icons "Shiny-Dark"
+-----------------
+
+Added new icons: actions (16)
+
+Icons "Shiny-Light"
+-------------------
+
+Fixed icons: places (64)
+
+Plasma Theme
+-------------
+
+Fixed icon: redshift.svg
+
