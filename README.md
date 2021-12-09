@@ -58,3 +58,17 @@ Plasma Theme
 
 Fixed icon: redshift.svg
 
+Changelog: 09.12.2021.
+-----------------------
+
+Icons
+------
+
+Added new icons: places
+
+
+Plasma Theme
+-------------
+
+Fixed widget: lineedit.svg
+
