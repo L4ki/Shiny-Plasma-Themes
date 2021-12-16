@@ -72,3 +72,16 @@ Plasma Theme
 
 Fixed widget: lineedit.svg
 
+Changelog: 16.12.2021.
+-----------------------
+
+Icons
+------
+
+Added new icons: preferences
+
+
+Plasma Theme
+-------------
+
+Fixed widget: actionbutton.svg
