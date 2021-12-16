@@ -38,9 +38,9 @@
      height="128px"
      width="128px"
      inkscape:document-units="px"
-     inkscape:cy="79.549514"
-     inkscape:cx="144.78011"
-     inkscape:zoom="2.8284271"
+     inkscape:cy="47.25"
+     inkscape:cx="98.000001"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      objecttolerance="10"
@@ -50,7 +50,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
     <inkscape:grid
        enabled="true"
        visible="true"
