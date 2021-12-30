@@ -93,3 +93,17 @@ Plasma Theme
 -------------
 
 Update widget: tasks.svg
+
+Changelog: 30.12.2021.
+-----------------------
+
+Icons
+------
+
+Added new icons: places (16)
+
+
+Plasma Theme
+-------------
+
+Fixed widget: tabbar.svg
