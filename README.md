@@ -107,3 +107,17 @@ Plasma Theme
 -------------
 
 Fixed widget: tabbar.svg
+
+Changelog: 06.01.2022.
+-----------------------
+
+Icons
+------
+
+Added new icons: places (22)
+
+
+Plasma Theme
+-------------
+
+Fixed widget: listitem.svg
