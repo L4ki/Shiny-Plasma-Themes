@@ -135,3 +135,16 @@ Plasma Theme
 -------------
 
 Fixed widget: viewitem.svg
+
+Changelog: 20.01.2022.
+-----------------------
+
+Icons
+------
+
+Added new icons: status (symbolic), status (16)
+
+Plasma Theme
+-------------
+
+Update widget: scrollbar.svg
