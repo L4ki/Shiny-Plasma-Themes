@@ -155,7 +155,7 @@ Changelog: 27.01.2022.
 Icons
 ------
 
-Added new icons:status (24, 16)
+Added new icons:status (22, 16)
 
 Plasma Theme
 -------------
