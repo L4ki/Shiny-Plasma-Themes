@@ -161,3 +161,17 @@ Plasma Theme
 -------------
 
 Update widget: action-overlays.svg
+
+Changelog: 03.02.2022.
+-----------------------
+
+Icons
+------
+Shiny-Light: Added new icons status (24)
+Shiny-Dark: Added new icons status (22)
+
+
+Plasma Theme
+-------------
+
+Update widget: slider.svg
