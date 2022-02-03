@@ -168,6 +168,7 @@ Changelog: 03.02.2022.
 Icons
 ------
 Shiny-Light: Added new icons status (24)
+
 Shiny-Dark: Added new icons status (22)
 
 
