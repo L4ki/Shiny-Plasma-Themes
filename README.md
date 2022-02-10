@@ -176,3 +176,18 @@ Plasma Theme
 -------------
 
 Update widget: slider.svg
+
+Changelog: 10.02.2022.
+-----------------------
+
+Icons
+------
+Shiny-Light: Added new icons apps (32, 48)
+
+Shiny-Dark: Added new icons applets (256)
+
+
+Plasma Theme
+-------------
+
+Update widget: actionbutton.svg
