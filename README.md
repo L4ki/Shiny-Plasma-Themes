@@ -191,3 +191,16 @@ Plasma Theme
 -------------
 
 Update widget: actionbutton.svg
+
+Changelog: 17.02.2022.
+-----------------------
+
+Icons
+------
+
+Added new icons: devices (16)
+
+Plasma Theme
+-------------
+
+Update icon: system.svg
