@@ -218,4 +218,4 @@ Plasma Theme
 
 Update icon: view.svg
 
-Update widgets: arrows.svg, lineedit.svg, tabbar.svg, viewitem.svg
+Update widgets: arrows.svg
