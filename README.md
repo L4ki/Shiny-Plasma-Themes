@@ -218,4 +218,4 @@ Plasma Theme
 
 Update icon: view.svg
 
-Update widgets: arrows.svg
+Update widget: arrows.svg
