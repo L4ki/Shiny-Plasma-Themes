@@ -39,9 +39,9 @@
      inkscape:window-height="1007"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="10.092342"
-     inkscape:cx="23.780407"
-     inkscape:cy="27.050213"
+     inkscape:zoom="7.1363635"
+     inkscape:cx="23.541402"
+     inkscape:cy="18.286625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,11 +54,11 @@
        type="xygrid"
        id="grid975"
        originx="4.5888527e-08"
-       originy="1.3541115e-06" />
+       originy="2.416446e-06" />
   </sodipodi:namedview>
   <g
      id="up-arrow"
-     transform="translate(22,22)">
+     transform="translate(22,22.000001)">
     <rect
        style="opacity:0.00100002;stroke-width:3.78007"
        width="22"
@@ -120,7 +120,7 @@
        points="0,343 246,298 492,343 246,0 "
        id="polygon6-3-5"
        style="fill:#eff0f1;fill-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       transform="matrix(0,-0.01422764,0.01632655,0,30.2,-7.5000011)" />
+       transform="matrix(0,-0.01727642,0.01603499,0,30.25,-6.7500014)" />
   </g>
   <g
      id="right-arrow"
@@ -135,9 +135,9 @@
        id="rect12-6" />
     <polygon
        class="fil0"
-       points="246,0 0,343 246,298 492,343 "
+       points="246,298 492,343 246,0 0,343 "
        id="polygon6-3-3-2"
        style="fill:#eff0f1;fill-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       transform="matrix(0,0.01422764,-0.01632654,0,13.800003,-14.5)" />
+       transform="matrix(0,0.01727642,-0.01603499,0,13.750002,-15.25)" />
   </g>
 </svg>
