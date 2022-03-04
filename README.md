@@ -221,3 +221,16 @@ Update icon: view.svg
 Update dialogs: background.svg
 
 Update widget: arrows.svg
+
+Changelog: 04.03.2022.
+-----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (16)
+
+Plasma Theme
+-------------
+
+Update widget: tabbar.svg
