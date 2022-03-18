@@ -5,7 +5,7 @@
    viewBox="0 0 32.808331 13.758333"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="configuration-icons.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -42,8 +42,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="65.5"
-     inkscape:cy="17.5"
+     inkscape:cx="65.125"
+     inkscape:cy="17.375"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -623,7 +623,7 @@
          inkscape:connector-curvature="0"
          id="path4142"
          d="m 25.400004,259.42911 a 1.5875,1.5875 0 0 0 -1.5875,1.5875 1.5875,1.5875 0 0 0 1.5875,1.5875 1.5875,1.5875 0 0 0 1.5875,-1.5875 1.5875,1.5875 0 0 0 -1.5875,-1.5875 z m -0.606682,0.79375 0.606682,0.60668 0.606681,-0.60668 0.187069,0.18707 -0.606682,0.60668 0.606682,0.60668 -0.187069,0.18707 -0.606681,-0.60668 -0.606682,0.60668 -0.187068,-0.18707 0.606681,-0.60668 -0.606681,-0.60668 z"
-         style="opacity:1;fill:#0077be;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#0090e5;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="showbackground">
