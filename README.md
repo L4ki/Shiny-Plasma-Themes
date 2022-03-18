@@ -255,3 +255,17 @@ Plasma Theme
 -------------
 
 Update icon: window.svg
+
+Changelog: 18.03.2022.
+-----------------------
+
+Icons
+------
+
+Added new icons: devices (64)
+
+
+Plasma Theme
+-------------
+
+Update widget: configuration-icons.svg
