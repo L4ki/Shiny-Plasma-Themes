@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="update.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    id="svg846"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666699"
@@ -25,24 +25,25 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="8.485281"
-     inkscape:cx="66.644811"
+     inkscape:cy="8.5736693"
+     inkscape:cx="63.020889"
      inkscape:zoom="5.6568545"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     borderopacity="1"
+     bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="0"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        id="grid1394"
        type="xygrid"
@@ -81,7 +82,7 @@
       <polygon
          id="Arrow-Down"
          class="st0"
-         points="44,28 60,28 32,56 4,28 20,28 20,4 40,4 40,0 44,0 "
+         points="60,28 32,56 4,28 20,28 20,4 40,4 40,0 44,0 44,28 "
          transform="matrix(-0.09906396,0,0,-0.09906396,7.3990459,304.40833)"
          style="fill:#eff0f1;fill-opacity:1" />
       <path
@@ -103,7 +104,7 @@
       <polygon
          id="Arrow-Down-3"
          class="st0"
-         points="44,0 44,28 60,28 32,56 4,28 20,28 20,4 40,4 40,0 "
+         points="44,28 60,28 32,56 4,28 20,28 20,4 40,4 40,0 44,0 "
          transform="matrix(-0.09906396,0,0,-0.09906396,32.799046,304.4083)"
          style="fill:#009fff;fill-opacity:1" />
       <path
@@ -128,7 +129,7 @@
         <polygon
            id="Arrow-Down-36"
            class="st0"
-           points="4,28 20,28 20,4 40,4 40,0 44,0 44,28 60,28 32,56 "
+           points="40,4 40,0 44,0 44,28 60,28 32,56 4,28 20,28 20,4 "
            transform="matrix(-0.09906396,0,0,-0.09906396,15.865713,304.40831)"
            style="fill:#cc0052;fill-opacity:1" />
         <path
@@ -151,7 +152,7 @@
       <polygon
          id="Arrow-Down-6"
          class="st0"
-         points="32,56 4,28 20,28 20,4 40,4 40,0 44,0 44,28 60,28 "
+         points="4,28 20,28 20,4 40,4 40,0 44,0 44,28 60,28 32,56 "
          transform="matrix(-0.09906396,0,0,-0.09906396,24.200086,304.4083)"
          style="fill:#ff9955;fill-opacity:1" />
       <path
@@ -173,7 +174,7 @@
       <polygon
          id="Arrow-Down-367"
          class="st0"
-         points="44,0 44,28 60,28 32,56 4,28 20,28 20,4 40,4 40,0 "
+         points="44,28 60,28 32,56 4,28 20,28 20,4 40,4 40,0 44,0 "
          transform="matrix(-0.06604269,0,0,-0.06604269,5.0208947,296.20623)"
          style="fill:#eff0f1;fill-opacity:1" />
       <path
@@ -195,7 +196,7 @@
       <polygon
          id="Arrow-Down-36-3"
          class="st0"
-         points="60,28 32,56 4,28 20,28 20,4 40,4 40,0 44,0 44,28 "
+         points="32,56 4,28 20,28 20,4 40,4 40,0 44,0 44,28 60,28 "
          transform="matrix(-0.06604261,0,0,-0.06604261,10.841723,296.20623)"
          style="fill:#cc0052;fill-opacity:1" />
       <path
@@ -217,7 +218,7 @@
       <polygon
          id="Arrow-Down-6-6"
          class="st0"
-         points="60,28 32,56 4,28 20,28 20,4 40,4 40,0 44,0 44,28 "
+         points="32,56 4,28 20,28 20,4 40,4 40,0 44,0 44,28 60,28 "
          transform="matrix(-0.06604269,0,0,-0.06604269,16.662561,296.20623)"
          style="fill:#ff9955;fill-opacity:1" />
       <path
@@ -239,7 +240,7 @@
       <polygon
          id="Arrow-Down-3-9"
          class="st0"
-         points="4,28 20,28 20,4 40,4 40,0 44,0 44,28 60,28 32,56 "
+         points="20,28 20,4 40,4 40,0 44,0 44,28 60,28 32,56 4,28 "
          transform="matrix(-0.06604259,0,0,-0.06604259,22.483389,296.20622)"
          style="fill:#009fff;fill-opacity:1" />
       <path
