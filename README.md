@@ -256,16 +256,17 @@ Plasma Theme
 
 Update icon: window.svg
 
-Changelog: 18.03.2022.
+Changelog: 25.03.2022.
 -----------------------
 
 Icons
 ------
 
-Added new icons: devices (64)
+Added new icons: mimetypes (22)
 
 
 Plasma Theme
 -------------
 
-Update widget: configuration-icons.svg
+Update icon: update.svg
+
