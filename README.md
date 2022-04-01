@@ -270,3 +270,22 @@ Plasma Theme
 
 Update icon: update.svg
 
+Changelog: 01.04.2022.
+-----------------------
+
+Dark Icons
+----------
+
+Added new icons: emblems (16, 22, 24)
+
+Light Icons
+------------
+
+Added new icons: mimetypes (24)
+
+
+Plasma Theme
+-------------
+
+Update icon: checkmarks.svg
+
