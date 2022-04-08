@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="plasmavault_error.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,7 +39,7 @@
        id="Key-7"
        class="st0"
        d="m 12.666667,8.4668333 c 0,0.2916667 -0.229167,0.5208334 -0.520834,0.5208334 C 11.854167,8.9876667 11.625,8.7585 11.625,8.4668333 11.625,8.1751667 11.854167,7.946 12.145833,7.946 c 0.291667,0 0.520834,0.2291667 0.520834,0.5208333 z M 13.5,8.9876667 c 0,1.0312433 -0.843757,1.8749993 -1.875,1.8749993 -0.1875,0 -0.375,-0.03122 -0.541667,-0.08333 L 8.916667,12.946 h -1.25 v -1.041667 h 0.625 v -0.625 h 0.625 v -0.625 h 0.625 v -0.625 L 9.885423,9.6855767 C 9.80209,9.4668333 9.75,9.2376667 9.75,8.9876667 c 0,-1.03125 0.843757,-1.875 1.875,-1.875 1.031243,0 1.875,0.84375 1.875,1.875 z"
-       style="clip-rule:evenodd;fill:#cc0052;fill-opacity:1;fill-rule:evenodd;stroke-width:0.104167" />
+       style="clip-rule:evenodd;fill:#ff0066;fill-opacity:1;fill-rule:evenodd;stroke-width:0.104167" />
     <path
        id="Key-s-5"
        class="st1"
@@ -87,12 +87,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1011"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="8.0000004"
      inkscape:cx="30.124998"
-     inkscape:cy="20.624999"
+     inkscape:cy="20.687499"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -136,7 +136,7 @@
        id="Key"
        class="st0"
        d="m 18.5,12.20025 c 0,0.4375 -0.34375,0.78125 -0.78125,0.78125 -0.4375,0 -0.78125,-0.34375 -0.78125,-0.78125 0,-0.4375 0.34375,-0.78125 0.78125,-0.78125 0.4375,0 0.78125,0.34375 0.78125,0.78125 z m 1.25,0.78125 c 0,1.546865 -1.265635,2.8125 -2.8125,2.8125 -0.28125,0 -0.5625,-0.04683 -0.8125,-0.125 l -3.25,3.25 H 11 v -1.5625 h 0.9375 V 16.419 h 0.9375 v -0.9375 h 0.9375 V 14.544 l 0.515635,-0.515635 C 14.203135,13.70025 14.125,13.3565 14.125,12.9815 c 0,-1.546875 1.265635,-2.8125 2.8125,-2.8125 1.546865,0 2.8125,1.265625 2.8125,2.8125 z"
-       style="clip-rule:evenodd;fill:#cc0052;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15625" />
+       style="clip-rule:evenodd;fill:#ff0066;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15625" />
     <path
        id="Key-s"
        class="st1"
