@@ -289,3 +289,17 @@ Plasma Theme
 
 Update icon: checkmarks.svg
 
+Changelog: 08.04.2022.
+-----------------------
+
+Icons
+----------
+
+Added new icons: mimetypes (32)
+
+
+Plasma Theme
+-------------
+
+Update icon: plasmavault_error.svg
+
