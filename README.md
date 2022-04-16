@@ -303,3 +303,25 @@ Plasma Theme
 
 Update icon: plasmavault_error.svg
 
+Changelog: 16.04.2022.
+-----------------------
+
+Icons
+-----
+
+Shiny-Dark-Icons
+-----------------
+
+Added new icons: preferences (22)
+
+Shiny-Light-Icons
+-------------------
+
+Added new icons: mimetypes (64)
+
+
+Plasma Theme
+-------------
+
+Update widget: configuration-icons.svg
+
