@@ -4,7 +4,7 @@
    version="1.1"
    height="64"
    id="svg15"
-   sodipodi:docname="folder-extension.svg"
+   sodipodi:docname="folder-comic.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:window-height="1003"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="9.8124995"
-     inkscape:cx="18.802549"
-     inkscape:cy="39.13376"
+     inkscape:zoom="4.9062499"
+     inkscape:cx="45.757963"
+     inkscape:cy="51.974523"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,6 +43,18 @@
   </sodipodi:namedview>
   <defs
      id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1234">
+      <stop
+         style="stop-color:#2ad4ff;stop-opacity:1"
+         offset="0"
+         id="stop1230" />
+      <stop
+         style="stop-color:#aa87de;stop-opacity:1"
+         offset="1"
+         id="stop1232" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient991"
@@ -77,6 +89,15 @@
          offset="1"
          id="stop989" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1234"
+       id="linearGradient1236-4"
+       x1="8"
+       y1="34"
+       x2="64"
+       y2="34"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata5458">
@@ -109,29 +130,19 @@
        id="path2-3-3-2"
        sodipodi:nodetypes="scscsscssssssssscsssssscsccccccsccccsscc"
        style="fill:url(#linearGradient3483);fill-opacity:1;stroke-width:0.635139" />
-    <rect
-       class="st0"
-       height="18.125"
-       width="18.125"
-       x="420.50888"
-       y="515.73553"
-       id="rect4-3"
-       style="fill:#57cef3;stroke-width:0.3125" />
-    <path
-       class="st1"
-       d="m 422.07143,514.798 c -1.375,0 -2.5,1.125 -2.5,2.5 v 15 c 0,1.375 1.125,2.5 2.5,2.5 h 13.75 l 2.8125,-0.9375 V 521.048 h -0.3125 c 0,3.8125 -2.40625,7.125 -5.9375,8.8125 -1.09375,0.71875 -3.0625,1.1875 -5.3125,1.1875 -3.4375,0 -6.25,-1.125 -6.25,-2.5 v -11.25 c 0,-0.6875 0.5625,-1.25 1.25,-1.25 h 3.75 v -1.25 z"
-       id="path6-6"
-       style="fill:#10abee;stroke-width:0.3125" />
-    <path
-       class="st2"
-       d="m 424.57143,514.798 h 12.5 c 1.375,0 2.5,1.125 2.5,2.5 v 15 c 0,1.375 -1.125,2.5 -2.5,2.5 h -2.5 v -1.25 h 2.5 c 0.6875,0 1.25,-0.5625 1.25,-1.25 v -15 c 0,-0.6875 -0.5625,-1.25 -1.25,-1.25 h -12.5 z"
-       id="path8-7"
-       style="clip-rule:evenodd;fill:#f0f0f0;fill-opacity:1;fill-rule:evenodd;stroke-width:0.3125" />
-    <path
-       style="color:#232629;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.555565"
-       d="m 424.96016,519.787 v 1.11109 h -1.66673 v 8.88891 h 12.22218 v -8.88891 h -1.66653 V 519.787 h -2.77783 v 1.11109 h -3.33347 V 519.787 Z m 0.55545,0.55565 h 1.66673 v 1.48544 h 4.44436 v -1.48544 h 1.66673 v 1.48544 h 1.29162 v 7.0288 h -10.3614 v -7.0288 h 1.29196 z"
-       class="ColorScheme-Text"
-       id="path12-5"
-       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+    <g
+       id="Chat_1_-1"
+       transform="matrix(0.42857143,0,0,0.42857143,412.07143,509.08371)">
+      <path
+         id="Chat-7"
+         class="st0"
+         d="m 60,8 v 4 H 8 v 36 h 24 l 0.2,0.6 C 34.5,55.4 40.8,60 48,60 V 48 h 6 c 5.5,0 10,-4.5 10,-10 V 8 Z M 32,40 H 16 V 36 H 32 Z M 52,32 H 16 v -4 h 36 z m 0,-8 H 16 v -4 h 36 z"
+         style="fill:url(#linearGradient1236-4);fill-opacity:1" />
+      <path
+         id="Chat-s-2"
+         class="st1"
+         d="m 64,12 v 28 c 0,6.6 -5.4,12 -12,12 h -4 v -4 h 4 c 4.4,0 8,-3.6 8,-8 V 12 Z M 0,12 C 0,7.6 3.6,4 8,4 H 34 V 8 H 8 C 5.8,8 4,9.8 4,12 V 24 H 0 Z M 32,48 H 12 v 4 h 21.8 c -0.6,-1.1 -1.2,-2.2 -1.6,-3.4 z"
+         style="fill:#f2f2f2;fill-opacity:1" />
+    </g>
   </g>
 </svg>

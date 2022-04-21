@@ -4,7 +4,7 @@
    version="1.1"
    height="64"
    id="svg15"
-   sodipodi:docname="folder-extension.svg"
+   sodipodi:docname="folder-book.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:window-height="1003"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="9.8124995"
-     inkscape:cx="18.802549"
-     inkscape:cy="39.13376"
+     inkscape:zoom="9.8124999"
+     inkscape:cx="7.6942676"
+     inkscape:cy="25.579618"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,7 +48,7 @@
        xlink:href="#linearGradient991"
        id="linearGradient3483"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0016646,0,0,1,-0.64349,-0.6)"
+       gradientTransform="matrix(1.0016646,0,0,1,-0.643493,-0.6000009)"
        x1="386.57144"
        y1="516.39801"
        x2="446.62146"
@@ -76,6 +76,27 @@
          style="stop-color:#cccccc;stop-opacity:1"
          offset="1"
          id="stop989" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1047"
+       id="linearGradient1049"
+       x1="8"
+       y1="32"
+       x2="56"
+       y2="32"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1047">
+      <stop
+         style="stop-color:#ffbbff;stop-opacity:1"
+         offset="0"
+         id="stop1043" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1"
+         offset="1"
+         id="stop1045" />
     </linearGradient>
   </defs>
   <metadata
@@ -109,29 +130,20 @@
        id="path2-3-3-2"
        sodipodi:nodetypes="scscsscssssssssscsssssscsccccccsccccsscc"
        style="fill:url(#linearGradient3483);fill-opacity:1;stroke-width:0.635139" />
-    <rect
-       class="st0"
-       height="18.125"
-       width="18.125"
-       x="420.50888"
-       y="515.73553"
-       id="rect4-3"
-       style="fill:#57cef3;stroke-width:0.3125" />
-    <path
-       class="st1"
-       d="m 422.07143,514.798 c -1.375,0 -2.5,1.125 -2.5,2.5 v 15 c 0,1.375 1.125,2.5 2.5,2.5 h 13.75 l 2.8125,-0.9375 V 521.048 h -0.3125 c 0,3.8125 -2.40625,7.125 -5.9375,8.8125 -1.09375,0.71875 -3.0625,1.1875 -5.3125,1.1875 -3.4375,0 -6.25,-1.125 -6.25,-2.5 v -11.25 c 0,-0.6875 0.5625,-1.25 1.25,-1.25 h 3.75 v -1.25 z"
-       id="path6-6"
-       style="fill:#10abee;stroke-width:0.3125" />
-    <path
-       class="st2"
-       d="m 424.57143,514.798 h 12.5 c 1.375,0 2.5,1.125 2.5,2.5 v 15 c 0,1.375 -1.125,2.5 -2.5,2.5 h -2.5 v -1.25 h 2.5 c 0.6875,0 1.25,-0.5625 1.25,-1.25 v -15 c 0,-0.6875 -0.5625,-1.25 -1.25,-1.25 h -12.5 z"
-       id="path8-7"
-       style="clip-rule:evenodd;fill:#f0f0f0;fill-opacity:1;fill-rule:evenodd;stroke-width:0.3125" />
-    <path
-       style="color:#232629;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.555565"
-       d="m 424.96016,519.787 v 1.11109 h -1.66673 v 8.88891 h 12.22218 v -8.88891 h -1.66653 V 519.787 h -2.77783 v 1.11109 h -3.33347 V 519.787 Z m 0.55545,0.55565 h 1.66673 v 1.48544 h 4.44436 v -1.48544 h 1.66673 v 1.48544 h 1.29162 v 7.0288 h -10.3614 v -7.0288 h 1.29196 z"
-       class="ColorScheme-Text"
-       id="path12-5"
-       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+    <g
+       id="Book_1_"
+       transform="matrix(0.375,0,0,0.375,418.57143,510.798)"
+       style="fill:#eff0f1;fill-opacity:1">
+      <path
+         id="Book"
+         class="st0"
+         d="m 52,4 v 8 H 12 C 9.8,12 8,10.2 8,8 v 52 h 38 c 5.5,0 10,-4.5 10,-10 V 4 Z M 44,32 H 20 V 20 h 24 z"
+         style="fill:url(#linearGradient1049);fill-opacity:1" />
+      <path
+         id="Book-s"
+         class="st1"
+         d="m 16,4 c -2.2,0 -4,1.8 -4,4 0,2.2 1.8,4 4,4 H 12 C 9.8,12 8,10.2 8,8 8,3.6 11.6,0 16,0 h 40 v 4 z m 36,8 v 40 c 0,4.4 -3.6,8 -8,8 H 12 v 4 h 32 c 6.6,0 12,-5.4 12,-12 V 12 Z"
+         style="fill:#eff0f1;fill-opacity:1" />
+    </g>
   </g>
 </svg>

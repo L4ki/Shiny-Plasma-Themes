@@ -4,7 +4,7 @@
    version="1.1"
    height="64"
    id="svg15"
-   sodipodi:docname="folder-extension.svg"
+   sodipodi:docname="folder-library.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,22 +27,33 @@
      inkscape:window-height="1003"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="9.8124995"
-     inkscape:cx="18.802549"
-     inkscape:cy="39.13376"
+     inkscape:zoom="9.8124999"
+     inkscape:cx="17.070064"
+     inkscape:cy="23.439491"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true">
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid850" />
   </sodipodi:namedview>
   <defs
      id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1272">
+      <stop
+         style="stop-color:#ffaaaa;stop-opacity:1"
+         offset="0"
+         id="stop1268" />
+      <stop
+         style="stop-color:#ffb380;stop-opacity:1"
+         offset="1"
+         id="stop1270" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient991"
@@ -77,6 +88,15 @@
          offset="1"
          id="stop989" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1272"
+       id="linearGradient1274"
+       x1="4"
+       y1="30"
+       x2="60"
+       y2="30"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata5458">
@@ -109,29 +129,19 @@
        id="path2-3-3-2"
        sodipodi:nodetypes="scscsscssssssssscsssssscsccccccsccccsscc"
        style="fill:url(#linearGradient3483);fill-opacity:1;stroke-width:0.635139" />
-    <rect
-       class="st0"
-       height="18.125"
-       width="18.125"
-       x="420.50888"
-       y="515.73553"
-       id="rect4-3"
-       style="fill:#57cef3;stroke-width:0.3125" />
-    <path
-       class="st1"
-       d="m 422.07143,514.798 c -1.375,0 -2.5,1.125 -2.5,2.5 v 15 c 0,1.375 1.125,2.5 2.5,2.5 h 13.75 l 2.8125,-0.9375 V 521.048 h -0.3125 c 0,3.8125 -2.40625,7.125 -5.9375,8.8125 -1.09375,0.71875 -3.0625,1.1875 -5.3125,1.1875 -3.4375,0 -6.25,-1.125 -6.25,-2.5 v -11.25 c 0,-0.6875 0.5625,-1.25 1.25,-1.25 h 3.75 v -1.25 z"
-       id="path6-6"
-       style="fill:#10abee;stroke-width:0.3125" />
-    <path
-       class="st2"
-       d="m 424.57143,514.798 h 12.5 c 1.375,0 2.5,1.125 2.5,2.5 v 15 c 0,1.375 -1.125,2.5 -2.5,2.5 h -2.5 v -1.25 h 2.5 c 0.6875,0 1.25,-0.5625 1.25,-1.25 v -15 c 0,-0.6875 -0.5625,-1.25 -1.25,-1.25 h -12.5 z"
-       id="path8-7"
-       style="clip-rule:evenodd;fill:#f0f0f0;fill-opacity:1;fill-rule:evenodd;stroke-width:0.3125" />
-    <path
-       style="color:#232629;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.555565"
-       d="m 424.96016,519.787 v 1.11109 h -1.66673 v 8.88891 h 12.22218 v -8.88891 h -1.66653 V 519.787 h -2.77783 v 1.11109 h -3.33347 V 519.787 Z m 0.55545,0.55565 h 1.66673 v 1.48544 h 4.44436 v -1.48544 h 1.66673 v 1.48544 h 1.29162 v 7.0288 h -10.3614 v -7.0288 h 1.29196 z"
-       class="ColorScheme-Text"
-       id="path12-5"
-       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+    <g
+       id="Read_1_"
+       transform="matrix(0.46153846,0,0,0.46153846,410.07143,508.02877)">
+      <path
+         class="st0"
+         d="M 38.5,6 C 35.7,6 33.2,7.5 32,10 30.7,7.5 28.2,6 25.5,6 H 4 v 44 h 21.5 c 2.8,0 5.3,1.5 6.5,4 1.3,-2.5 3.8,-4 6.5,-4 H 56 c 2.2,0 4,-1.8 4,-4 V 6 Z M 20,42 h -8 v -4 h 8 z m 6,-8 H 12 v -4 h 14 z m 0,-8 H 12 v -4 h 14 z m 0,-8 H 12 v -4 h 14 z m 20,24 h -8 v -4 h 8 z m 6,-8 H 38 v -4 h 14 z m 0,-8 H 38 v -4 h 14 z m 0,-8 H 38 v -4 h 14 z"
+         id="path4"
+         style="fill:url(#linearGradient1274);fill-opacity:1" />
+      <path
+         id="Read-s"
+         class="st1"
+         d="M 0,50 V 10 H 4 V 50 Z M 60,10 v 36 c 0,2.2 -1.8,4 -4,4 H 38 c -2.5,0 -4.7,1.4 -5.8,3.6 L 32,54 31.8,53.6 C 30.7,51.4 28.5,50 26,50 H 8 v 4 h 18 c 0,2.2 1.8,4 4,4 h 4 c 2.2,0 4,-1.8 4,-4 h 18 c 4.4,0 8,-3.6 8,-8 V 10 Z"
+         style="fill:#f3f3f3;fill-opacity:1" />
+    </g>
   </g>
 </svg>
