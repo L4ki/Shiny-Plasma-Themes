@@ -4,7 +4,7 @@
    viewBox="0 0 64 64"
    id="svg71"
    sodipodi:docname="user-trash.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -38,7 +38,7 @@
      id="namedview73"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="9.4920097"
+     inkscape:cx="9.4440703"
      inkscape:cy="32.598821"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -222,5 +222,5 @@
      id="Trash-s"
      class="st1"
      d="m 48.275,19 v 29.25 c 0,5.3625 -4.3875,9.75 -9.75,9.75 h -19.5 v -3.25 h 19.5 c 3.575,0 6.5,-2.925 6.5,-6.5 V 19 Z m 4.875,-6.5 h -8.125 v 3.25 H 53.15 Z M 38.525,9.25 V 6 H 30.4 c -2.68125,0 -4.875,2.19375 -4.875,4.875 V 12.5 h 3.25 v -1.625 c 0,-0.89375 0.73125,-1.625 1.625,-1.625 z"
-     style="fill:#393e46;stroke-width:0.8125;fill-opacity:1" />
+     style="fill:#232629;stroke-width:0.8125;fill-opacity:1" />
 </svg>
