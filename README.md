@@ -325,3 +325,11 @@ Plasma Theme
 
 Update widget: configuration-icons.svg
 
+Changelog: 22.04.2022.
+-----------------------
+
+Icons
+-----
+
+Update icons: places (32, 64)
+
