@@ -333,3 +333,11 @@ Icons
 
 Update icons: places (32, 64)
 
+Changelog: 23.04.2022.
+-----------------------
+
+Plasma Theme
+-----
+
+Update icon: choqok.svg
+
