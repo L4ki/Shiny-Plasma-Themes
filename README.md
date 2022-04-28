@@ -341,3 +341,11 @@ Plasma Theme
 
 Update icon: choqok.svg
 
+Changelog: 29.04.2022.
+-----------------------
+
+Icons
+-----
+
+Added new icons: apps (48)
+
