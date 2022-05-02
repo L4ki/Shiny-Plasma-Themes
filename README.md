@@ -349,3 +349,11 @@ Icons
 
 Added new icons: apps (48)
 
+Changelog: 02.05.2022.
+-----------------------
+
+Plasma Theme
+-----
+
+Update widget: containment-controls.svg
+
