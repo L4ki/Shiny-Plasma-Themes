@@ -357,3 +357,12 @@ Plasma Theme
 
 Update widget: containment-controls.svg
 
+
+Changelog: 06.05.2022.
+-----------------------
+
+Icons
+-----
+
+Added new icons: apps
+
