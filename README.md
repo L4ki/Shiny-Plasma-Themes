@@ -366,3 +366,11 @@ Icons
 
 Added new icons: apps
 
+Changelog: 10.05.2022.
+-----------------------
+
+Plasma Theme
+-----
+
+Update icon: akregator.svg
+
