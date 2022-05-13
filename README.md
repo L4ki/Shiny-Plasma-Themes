@@ -374,3 +374,19 @@ Plasma Theme
 
 Update icon: akregator.svg
 
+Changelog: 13.05.2022.
+-----------------------
+
+Icons
+-----
+
+Dark Icons
+-----------
+
+Added new icons: status (24)
+
+Light icons
+-----------
+
+Added new icons: apps (48)
+
