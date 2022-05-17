@@ -390,3 +390,10 @@ Light icons
 
 Added new icons: apps (48)
 
+Changelog: 17.05.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added new icon: go.svg
