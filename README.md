@@ -397,3 +397,12 @@ Plasma Theme
 ------------
 
 Added new icon: go.svg
+
+
+Changelog: 20.05.2022.
+-----------------------
+
+Icons
+-----
+
+Update icons: places
