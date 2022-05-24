@@ -406,3 +406,11 @@ Icons
 -----
 
 Update icons: places
+
+Changelog: 24.05.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: busywidget.svg
