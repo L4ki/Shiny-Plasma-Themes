@@ -414,3 +414,11 @@ Plasma Theme
 ------------
 
 Update widget: busywidget.svg
+
+Changelog: 27.05.2022.
+-----------------------
+
+Icons
+-----
+
+Added new icons icons: actions 16
