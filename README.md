@@ -422,3 +422,11 @@ Icons
 -----
 
 Added new icons icons: actions 16
+
+Changelog: 31.05.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update icon: input.svg
