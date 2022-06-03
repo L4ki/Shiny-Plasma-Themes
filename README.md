@@ -430,3 +430,11 @@ Plasma Theme
 ------------
 
 Update icon: input.svg
+
+Changelog: 03.06.2022.
+-----------------------
+
+Icons
+-----
+
+Added new icons icons: actions
