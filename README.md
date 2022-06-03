@@ -437,4 +437,4 @@ Changelog: 03.06.2022.
 Icons
 -----
 
-Added new icons icons: actions
+Added new icons: actions
