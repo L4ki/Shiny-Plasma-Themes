@@ -438,3 +438,11 @@ Icons
 -----
 
 Added new icons: actions
+
+Changelog: 07.06.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update icon: printer.svg
