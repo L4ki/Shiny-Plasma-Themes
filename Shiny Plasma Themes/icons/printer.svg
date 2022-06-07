@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="printer.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -53,18 +53,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="9.8125003"
-     inkscape:cx="36.484075"
-     inkscape:cy="16.815286"
+     inkscape:zoom="6.9384855"
+     inkscape:cx="31.635146"
+     inkscape:cy="22.411231"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -85,8 +85,9 @@
     <path
        id="Print_1_"
        class="st0"
-       d="M 22.750001,21.142857 H 9.2500002 v 5.142857 H 22.750001 Z M 2.5,9.1428571 H 8.40625 V 12.571429 H 22.750001 V 4 H 24.4375 v 5.1428571 h 3.375 V 7.4285714 H 29.5 V 20.285714 c 0,2.357143 -1.898438,4.285715 -4.21875,4.285715 H 24.4375 V 28 H 7.5624999 V 24.571429 H 2.5 Z"
-       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.42521" />
+       d="M 22.750001,21.142857 H 9.2500002 v 5.142857 H 22.750001 Z M 2.5,9.1428571 H 8.40625 V 12.571429 H 22.750001 V 4 H 24.4375 v 5.1428571 h 3.375 L 27.999999,9.2 29.5,9.229 v 11.056714 c 0,2.357143 -1.898438,4.285715 -4.21875,4.285715 H 24.4375 V 28 H 7.5624999 V 24.571429 H 2.5 Z"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.42521"
+       sodipodi:nodetypes="cccccccccccccccsscccccc" />
     <path
        id="Print-s"
        class="st1"
@@ -106,8 +107,9 @@
     <path
        id="Print_1_-3"
        class="st0"
-       d="M 15.500001,14.428572 H 6.5 v 3.428571 h 9.000001 z M 2,6.428571 h 3.9375 v 2.285715 h 9.562501 V 3 H 16.625 v 3.428571 h 2.25 V 5.285714 H 20 v 8.571429 c 0,1.571429 -1.265625,2.857143 -2.8125,2.857143 H 16.625 V 19 H 5.375 V 16.714286 H 2 Z"
-       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.283473" />
+       d="M 15.500001,14.428572 H 6.5 v 3.428571 h 9.000001 z M 2,6.428571 h 3.9375 v 2.285715 h 9.562501 V 3 H 16.625 v 3.428571 h 2.25 V 6.385999 l 1.125,0.1 v 7.371144 c 0,1.571429 -1.265625,2.857143 -2.8125,2.857143 H 16.625 V 19 H 5.375 V 16.714286 H 2 Z"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.283473"
+       sodipodi:nodetypes="cccccccccccccccsscccccc" />
     <path
        id="Print-s-6"
        class="st1"
