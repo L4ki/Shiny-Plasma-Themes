@@ -447,7 +447,7 @@ Plasma Theme
 
 Update icon: printer.svg, configure.svg
 
-Changelog: 03.06.2022.
+Changelog: 10.06.2022.
 -----------------------
 
 Icons
