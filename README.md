@@ -454,3 +454,11 @@ Icons
 -----
 
 Added new icons: actions 22
+
+Changelog: 14.06.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added widgets (opaque, solid, translucent)
