@@ -463,7 +463,7 @@ Plasma Theme
 
 Added widgets (opaque, solid, translucent)
 
-Aurorae Theme "Shiny-Blur-Aurore"
+Aurorae Theme "Shiny-Blur-Aurorae"
 ---------------------------------
 
 Update decoration.svg (Customized for Plasma 5.25)
