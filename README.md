@@ -467,3 +467,12 @@ Aurorae Theme "Shiny-Blur-Aurorae"
 ---------------------------------
 
 Update decoration.svg (Customized for Plasma 5.25)
+
+
+Changelog: 17.06.2022.
+-----------------------
+
+Icons
+-----
+
+Update icons: actions 24
