@@ -476,3 +476,11 @@ Icons
 -----
 
 Update icons: actions 24
+
+Changelog: 22.06.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added new icons: kleopatra, mobile
