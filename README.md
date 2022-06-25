@@ -484,3 +484,11 @@ Plasma Theme
 ------------
 
 Added new icons: kleopatra, mobile
+
+Changelog: 25.06.2022.
+-----------------------
+
+Icons
+-----
+
+Update icons: actions 16
