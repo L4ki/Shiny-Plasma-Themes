@@ -492,3 +492,11 @@ Icons
 -----
 
 Update icons: actions 16
+
+Changelog: 29.06.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added new icons: kpackagekit, korgac
