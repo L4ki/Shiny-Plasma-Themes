@@ -500,3 +500,11 @@ Plasma Theme
 ------------
 
 Added new icons: kpackagekit, korgac
+
+Changelog: 02.07.2022.
+-----------------------
+
+Icons
+-----
+
+Update icons: actions 22
