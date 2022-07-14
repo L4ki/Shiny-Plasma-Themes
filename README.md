@@ -508,3 +508,11 @@ Icons
 -----
 
 Update icons: actions 22
+
+Changelog: 14.07.2022.
+-----------------------
+
+Icons
+-----
+
+Added new icons: actions 24
