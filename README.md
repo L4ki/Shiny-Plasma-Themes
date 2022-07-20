@@ -516,3 +516,11 @@ Icons
 -----
 
 Added new icons: actions 24
+
+Changelog: 20.07.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update icon: klipper.svg
