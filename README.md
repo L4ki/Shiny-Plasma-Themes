@@ -529,7 +529,15 @@ Update icon: klipper.svg
 Changelog: 23.07.2022.
 -----------------------
 
-Icons
-------
+"Shiny-Icons"
+------------
 
-Added new icons: actions: 16, 22
+Dark Isons
+-----------
+
+Added new icons: actions: 22
+
+Light Icons
+-----------
+
+Added new icons: actions: 16
