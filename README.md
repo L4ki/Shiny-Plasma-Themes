@@ -530,11 +530,6 @@ Changelog: 23.07.2022.
 -----------------------
 
 Icons
------
-
-Added new icons: actions 24
-
-Changelog: 20.07.2022.
------------------------
+------
 
 Added new icons: actions: 16, 22
