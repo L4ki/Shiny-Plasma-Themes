@@ -541,3 +541,16 @@ Light Icons
 -----------
 
 Added new icons: actions: 16
+
+Changelog: 27.07.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widgets: line.svg, scrollbar.svg
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
