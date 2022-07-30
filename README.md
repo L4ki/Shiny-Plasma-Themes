@@ -554,3 +554,11 @@ Aurorae Themes
 ---------------
 
 Update: decoration.svg
+
+Changelog: 30.07.2022.
+-----------------------
+
+"Shiny-Icons"
+------------
+
+Added new icons: actions 24
