@@ -562,3 +562,11 @@ Changelog: 30.07.2022.
 ------------
 
 Added new icons: actions 24
+
+Changelog: 03.08.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: tabbar.svg
