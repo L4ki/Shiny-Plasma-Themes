@@ -571,7 +571,7 @@ Plasma Theme
 
 Update widget: tabbar.svg
 
-Changelog: 30.07.2022.
+Changelog: 06.08.2022.
 -----------------------
 
 "Shiny-Light-Icons"
