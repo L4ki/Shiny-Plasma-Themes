@@ -583,3 +583,11 @@ Added new icons: actions 22
 ------------------
 
 Added new icons: actions 16
+
+Changelog: 10.08.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: calendar.svg
