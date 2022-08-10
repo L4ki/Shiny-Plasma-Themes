@@ -5,7 +5,7 @@
    viewBox="0 0 30 30"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="calendar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.768786"
-     inkscape:cx="21.327603"
-     inkscape:cy="15.379666"
+     inkscape:cx="21.370089"
+     inkscape:cy="15.422151"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,7 +48,8 @@
      fit-margin-bottom="0"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -84,7 +85,7 @@
       <path
          id="g20"
          d="m 30,926.3622 -8,8 h 8 z"
-         style="opacity:1;fill:#081c2d;fill-opacity:1;stroke:none;stroke-width:0.5"
+         style="opacity:1;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:0.5"
          inkscape:connector-curvature="0"
          class="ColorScheme-ButtonFocus"
          sodipodi:nodetypes="cccc" />
