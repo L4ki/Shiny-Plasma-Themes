@@ -591,3 +591,11 @@ Plasma Theme
 ------------
 
 Update widget: calendar.svg
+
+Changelog: 11.08.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+------------------
+
+Added new icons: actions 16
