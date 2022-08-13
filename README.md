@@ -599,3 +599,11 @@ Changelog: 11.08.2022.
 ------------------
 
 Added new icons: actions 16
+
+Changelog: 13.08.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
+------------------------------------------
+
+Added new icons: actions 24
