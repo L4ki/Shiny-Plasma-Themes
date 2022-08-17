@@ -4,7 +4,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    width="136.53334"
    height="320"
    sodipodi:docname="listitem.svg"
@@ -23,7 +23,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1006"
+     inkscape:window-height="1002"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -34,9 +34,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="1.1702587"
-     inkscape:cx="117.06813"
-     inkscape:cy="153.81215"
+     inkscape:zoom="1.6549957"
+     inkscape:cx="135.04567"
+     inkscape:cy="195.7709"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -51,8 +51,9 @@
      inkscape:object-nodes="true"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false"
-     inkscape:showpageshadow="true">
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
@@ -610,38 +611,38 @@
      inkscape:connector-curvature="0"
      id="pressed-center"
      d="M 19.9997,10.000015 V 21.00002 H 30.999699 V 10.000015 Z"
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      class="ColorScheme-ViewFocus" />
   <path
      inkscape:connector-curvature="0"
      id="pressed-right"
      d="M 30.9997,10.000015 V 21.00002 h 2 c 6.68e-4,-0.01835 0,-0.0344 0,-0.05289 V 10.0529 c 0,-0.0185 6.68e-4,-0.03453 0,-0.05288 h -2 z"
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      class="ColorScheme-ViewFocus" />
   <path
      sodipodi:nodetypes="ccccsscc"
      inkscape:connector-curvature="0"
      id="pressed-top"
      d="m 19.9997,7.999968 v 2.000047 H 30.999699 V 7.999968 c -0.0041,-6.7e-4 0.0045,0 3.01e-4,0 H 20.01156 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:label="#path4824"
      class="ColorScheme-ViewFocus" />
   <path
      inkscape:connector-curvature="0"
      id="pressed-left"
      d="m 18,10.000015 c -6.7e-4,0.01835 0,0.03439 0,0.05288 v 10.89423 c 0,0.0185 -6.7e-4,0.03453 0,0.05288 h 2 V 10 h -2 z"
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      class="ColorScheme-ViewFocus" />
   <path
      sodipodi:nodetypes="cccccc"
      inkscape:connector-curvature="0"
      id="pressed-bottom"
      d="m 20,21 v 2 h 11 v -2 z"
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero"
      inkscape:label="#path4850"
      class="ColorScheme-ViewFocus" />
   <path
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 17.999667,7.999968 v 2.000047 h 1.999722 V 7.999968 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 h -1.997621 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
      id="pressed-topleft"
      inkscape:connector-curvature="0"
@@ -653,11 +654,11 @@
      inkscape:connector-curvature="0"
      id="pressed-topright"
      d="m 31.000044,7.999968 v 2.000047 h 1.999722 V 7.999968 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 H 31.0022 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:label="#path3156"
      class="ColorScheme-ViewFocus" />
   <path
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 31.000044,20.999953 V 23 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 H 31.0022 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
      id="pressed-bottomright"
      inkscape:connector-curvature="0"
@@ -669,7 +670,7 @@
      inkscape:connector-curvature="0"
      id="pressed-bottomleft"
      d="M 18.000044,20.999953 V 23 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 H 18.0022 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
-     style="opacity:0.05;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.1;fill:#0077be;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:label="#path3160"
      class="ColorScheme-ViewFocus" />
   <path
