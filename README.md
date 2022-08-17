@@ -607,3 +607,11 @@ Changelog: 13.08.2022.
 ------------------------------------------
 
 Added new icons: actions 24
+
+Changelog: 17.08.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: listitem.svg
