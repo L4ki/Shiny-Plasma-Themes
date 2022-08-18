@@ -615,3 +615,11 @@ Plasma Theme
 ------------
 
 Update widget: listitem.svg
+
+Changelog: 18.08.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+------------------
+
+Added new icons: mimetypes
