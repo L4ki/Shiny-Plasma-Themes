@@ -623,3 +623,11 @@ Changelog: 18.08.2022.
 ------------------
 
 Added new icons: mimetypes
+
+Changelog: 20.08.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
+------------------------------------------
+
+Added new icons: mimetypes
