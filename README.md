@@ -631,3 +631,11 @@ Changelog: 20.08.2022.
 ------------------------------------------
 
 Added new icons: mimetypes
+
+Changelog: 24.08.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: tasks.svg
