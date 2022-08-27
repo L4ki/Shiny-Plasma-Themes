@@ -647,3 +647,11 @@ Changelog: 25.08.2022.
 -----------------------
 
 Added new icons: actions 22
+
+Changelog: 27.08.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
+------------------------------------------
+
+Added new icons: actions 22
