@@ -655,3 +655,12 @@ Changelog: 27.08.2022.
 ------------------------------------------
 
 Added new icons: actions 22
+
+
+Changelog: 31.08.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update icon: system.svg
