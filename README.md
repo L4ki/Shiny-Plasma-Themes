@@ -664,3 +664,11 @@ Plasma Theme
 ------------
 
 Update icon: system.svg
+
+Changelog: 01.09.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+-----------------------
+
+Added new icons: actions 22
