@@ -680,3 +680,11 @@ Changelog: 03.09.2022.
 ------------------------------------------
 
 Added new icons: actions 22
+
+Changelog: 07.09.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: pager.svg
