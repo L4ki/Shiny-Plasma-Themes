@@ -688,3 +688,11 @@ Plasma Theme
 ------------
 
 Update widget: pager.svg
+
+Changelog: 08.09.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+-----------------------
+
+Added new icons: actions 22
