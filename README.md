@@ -696,3 +696,11 @@ Changelog: 08.09.2022.
 -----------------------
 
 Added new icons: actions 22
+
+Changelog: 10.09.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
+------------------------------------------
+
+Update icons: places
