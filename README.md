@@ -704,3 +704,11 @@ Changelog: 10.09.2022.
 ------------------------------------------
 
 Update icons: places
+
+Changelog: 14.09.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icons: software.svg, slc.svg
