@@ -712,3 +712,11 @@ Plasma Theme
 ------------
 
 Added icons: software.svg, slc.svg
+
+Changelog: 15.09.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+-----------------------
+
+Update icons: places
