@@ -720,3 +720,16 @@ Changelog: 15.09.2022.
 -----------------------
 
 Update icons: places
+
+Changelog: 10.09.2022.
+-----------------------
+
+"Shiny-Dark-Icons"
+------------------
+
+Added icons: actions 16
+
+"Shiny-Light-Icons"
+--------------------
+
+Added icons: actions 22
