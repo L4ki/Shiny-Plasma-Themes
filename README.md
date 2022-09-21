@@ -733,3 +733,11 @@ Added icons: actions 16
 --------------------
 
 Added icons: actions 22
+
+Changelog: 21.09.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: background.svg
