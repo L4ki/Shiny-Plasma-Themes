@@ -741,3 +741,11 @@ Plasma Theme
 ------------
 
 Update widget: background.svg
+
+Changelog: 22.09.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+-----------------------
+
+Added new icons: actions 24
