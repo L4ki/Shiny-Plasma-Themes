@@ -749,3 +749,13 @@ Changelog: 22.09.2022.
 -----------------------
 
 Added new icons: actions 24
+
+Changelog: 24.09.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+------------------
+
+Added new icons: apps 48
+
+
