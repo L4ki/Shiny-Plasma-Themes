@@ -758,4 +758,12 @@ Changelog: 24.09.2022.
 
 Added new icons: apps 48
 
+Changelog: 21.09.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update icon: edit.svg
+
 
