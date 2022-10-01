@@ -774,4 +774,12 @@ Changelog: 29.09.2022.
 
 Added new icons: apps 32, 48
 
+Changelog: 01.10.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+------------------
+
+Added new icons: apps
+
 
