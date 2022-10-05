@@ -782,4 +782,12 @@ Changelog: 01.10.2022.
 
 Added new icons: apps
 
+Changelog: 05.10.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: configuration-icons.svg
+
 
