@@ -790,4 +790,12 @@ Plasma Theme
 
 Update widget: configuration-icons.svg
 
+Changelog: 06.10.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+-----------------------
+
+Added new icons: apps
+
 
