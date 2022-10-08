@@ -794,8 +794,14 @@ Changelog: 06.10.2022.
 -----------------------
 
 "Shiny-Color-Dark-Icons"
+
+Changelog: 08.10.2022.
 -----------------------
 
+"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+-----------------------------------------
+
 Added new icons: apps
+
 
 
