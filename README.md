@@ -803,5 +803,13 @@ Changelog: 08.10.2022.
 
 Added new icons: apps
 
+Changelog: 12.10.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added new widget: toolbar.svg
+
 
 
