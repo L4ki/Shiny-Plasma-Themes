@@ -794,6 +794,10 @@ Changelog: 06.10.2022.
 -----------------------
 
 "Shiny-Color-Dark-Icons"
+-------------------------
+
+Added new icons: apps
+
 
 Changelog: 08.10.2022.
 -----------------------
@@ -810,6 +814,14 @@ Plasma Theme
 ------------
 
 Added new widget: toolbar.svg
+
+Changelog: 06.10.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+-------------------------
+
+Added new icons: actions 22
 
 
 
