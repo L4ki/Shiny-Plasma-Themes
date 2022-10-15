@@ -824,7 +824,7 @@ Changelog: 13.10.2022.
 Added new icons: actions 22
 
 
-Changelog: 08.10.2022.
+Changelog: 15.10.2022.
 -----------------------
 
 "Shiny-Dark-Icons" and :Shiny-Light-Icons"
