@@ -833,3 +833,12 @@ Changelog: 15.10.2022.
 Added new icons: actions 22
 
 
+Changelog: 19.10.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: scrollbar.svg
+
+
