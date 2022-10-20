@@ -841,7 +841,7 @@ Plasma Theme
 
 Update widget: scrollbar.svg
 
-Changelog: 13.10.2022.
+Changelog: 20.10.2022.
 -----------------------
 
 "Shiny-Color-Dark-Icons"
