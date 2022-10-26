@@ -857,6 +857,14 @@ Changelog: 22.10.2022.
 
 Added new icons: actions
 
+Changelog: 26.10.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: lineedit.svg
+
 
 
 
