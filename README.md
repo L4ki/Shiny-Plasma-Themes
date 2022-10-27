@@ -865,7 +865,7 @@ Plasma Theme
 
 Update widget: lineedit.svg
 
-Changelog: 20.10.2022.
+Changelog: 27.10.2022.
 -----------------------
 
 "Shiny-Color-Dark-Icons"
