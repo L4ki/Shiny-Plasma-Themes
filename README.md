@@ -873,6 +873,13 @@ Changelog: 27.10.2022.
 
 Added new icons: apps
 
+Changelog: 29.10.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+-----------------------------------------
+
+Added new icons: apps
 
 
 
