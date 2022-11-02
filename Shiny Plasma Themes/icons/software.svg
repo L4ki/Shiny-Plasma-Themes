@@ -5,7 +5,7 @@
    version="1.1"
    width="22"
    height="22.000017"
-   sodipodi:docname="software-updates.svg"
+   sodipodi:docname="software.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,10 +25,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.3636364"
-     inkscape:cx="52.669491"
+     inkscape:cx="52.576271"
      inkscape:cy="-5.5"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -129,7 +129,7 @@
        id="Upload-35"
        class="st0"
        d="M 2,12.142857 H 18.875 V 11 H 20 v 4 c 0,1.571429 -1.265625,2.857143 -2.8125,2.857143 H 2 Z"
-       style="fill:#2ecc71;fill-opacity:1;stroke-width:0.283473" />
+       style="fill:#00aa7f;fill-opacity:1;stroke-width:0.283473" />
     <path
        id="Upload-s-62"
        class="st1  ColorScheme-Text"
@@ -202,6 +202,6 @@
        id="Upload-s-1"
        class="st1"
        d="M 10.4375,14.428572 V 5.171428 l -3.15,3.2 L 6.5,7.571428 11,3 l 4.5,4.571428 -0.7875,0.8 -3.15,-3.2 v 9.257144 z m 8.4375,-2.285715 v 3.428572 c 0,1.257143 -1.0125,2.285714 -2.25,2.285714 H 3.125 V 19 h 13.5 C 18.48125,19 20,17.457143 20,15.571429 v -3.428572 z"
-       style="fill:#2ecc71;fill-opacity:1;stroke-width:0.283473" />
+       style="fill:#00aa7f;fill-opacity:1;stroke-width:0.283473" />
   </g>
 </svg>
