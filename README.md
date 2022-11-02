@@ -881,5 +881,14 @@ Changelog: 29.10.2022.
 
 Added new icons: apps
 
+Changelog: 02.11.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Update icon: software.svg
+
+
 
 
