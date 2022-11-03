@@ -889,6 +889,14 @@ Plasma Theme
 
 Update icon: software.svg
 
+Changelog: 03.11.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32
+
 
 
 
