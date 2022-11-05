@@ -753,7 +753,7 @@ Added new icons: actions 24
 Changelog: 24.09.2022.
 -----------------------
 
-"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
 ------------------
 
 Added new icons: apps 48
@@ -777,7 +777,7 @@ Added new icons: apps 32, 48
 Changelog: 01.10.2022.
 -----------------------
 
-"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
 ------------------
 
 Added new icons: apps
@@ -802,7 +802,7 @@ Added new icons: apps
 Changelog: 08.10.2022.
 -----------------------
 
-"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
 -----------------------------------------
 
 Added new icons: apps
@@ -827,7 +827,7 @@ Added new icons: actions 22
 Changelog: 15.10.2022.
 -----------------------
 
-"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
 -----------------------------------------
 
 Added new icons: actions 22
@@ -852,7 +852,7 @@ Added new icons: actions
 Changelog: 22.10.2022.
 -----------------------
 
-"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
 -----------------------------------------
 
 Added new icons: actions
@@ -876,7 +876,7 @@ Added new icons: apps
 Changelog: 29.10.2022.
 -----------------------
 
-"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
 -----------------------------------------
 
 Added new icons: apps
@@ -900,7 +900,7 @@ Added new icons: apps 32
 Changelog: 05.11.2022.
 -----------------------
 
-"Shiny-Dark-Icons" and :Shiny-Light-Icons"
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
 -----------------------------------------
 
 Added new icons: apps 32, 48
