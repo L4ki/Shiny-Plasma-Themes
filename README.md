@@ -905,6 +905,14 @@ Changelog: 05.11.2022.
 
 Added new icons: apps 32, 48
 
+Changelog: 09.11.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: tools.svg
+
 
 
 
