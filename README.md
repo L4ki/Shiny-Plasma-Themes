@@ -913,6 +913,13 @@ Plasma Theme
 
 Added icon: tools.svg
 
+Changelog: 10.11.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32, 48
 
 
 
