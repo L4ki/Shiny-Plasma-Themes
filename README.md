@@ -1,6 +1,14 @@
 # Shiny-Plasma-Themes
 Shiny Plasma Themes For Plasma Desktop
 
+![1](https://user-images.githubusercontent.com/45247573/201469941-c2006ef0-f892-4315-b058-c8e563c4e24e.jpg)
+
+![2](https://user-images.githubusercontent.com/45247573/201469945-ee0bb6b0-beab-47fe-acfe-ea7b04ded6d3.png)
+
+![Screenshot_20220804_101450](https://user-images.githubusercontent.com/45247573/201469999-fd7134bc-6491-40ce-b7ea-3b6a7865295b.png)
+
+![Screenshot_20220804_101320](https://user-images.githubusercontent.com/45247573/201470011-17580fab-891b-483a-b551-666a4219ae56.png)
+
 Changelog: 10.11.2021.
 -----------------------
 
