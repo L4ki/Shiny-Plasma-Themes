@@ -945,5 +945,10 @@ Plasma Theme
 
 Added icon: nulloy.svg
 
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32, 48
+
 
 
