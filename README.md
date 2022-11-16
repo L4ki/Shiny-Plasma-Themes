@@ -937,5 +937,13 @@ Changelog: 12.11.2022.
 
 Added new icons: apps
 
+Changelog: 17.11.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: nulloy.svg
+
 
 
