@@ -959,5 +959,18 @@ Changelog: 19.11.2022.
 
 Added new icons: apps 32, 48
 
+Changelog: 24.11.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: utilities.svg
+
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32, 48
+
 
 
