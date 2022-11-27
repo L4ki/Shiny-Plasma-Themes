@@ -972,5 +972,13 @@ Added icon: utilities.svg
 
 Added new icons: apps 32, 48
 
+Changelog: 27.11.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
+-----------------------------------------
+
+Added new icons: apps 32, 48
+
 
 
