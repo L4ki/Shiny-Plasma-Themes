@@ -980,5 +980,18 @@ Changelog: 27.11.2022.
 
 Added new icons: apps 32, 48
 
+Changelog: 01.12.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added widgets: timer.svg, notes.svg
+
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32, 48
+
 
 
