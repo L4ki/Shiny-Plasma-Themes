@@ -1001,5 +1001,18 @@ Changelog: 04.12.2022.
 
 Added new icons: apps 32, 48
 
+Changelog: 08.12.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: jami.svg
+
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32, 48
+
 
 
