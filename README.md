@@ -1015,4 +1015,13 @@ Added icon: jami.svg
 Added new icons: apps 32, 48
 
 
+Changelog: 11.12.2022.
+-----------------------
+
+"Shiny-Dark-Icons" and "Shiny-Light-Icons"
+-----------------------------------------
+
+Added new icons: apps 32, 48
+
+
 
