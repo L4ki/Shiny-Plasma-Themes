@@ -1023,5 +1023,13 @@ Changelog: 11.12.2022.
 
 Added new icons: apps 32, 48
 
+Changelog: 15.12.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: face.svg
+
 
 
