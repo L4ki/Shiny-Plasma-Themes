@@ -1031,5 +1031,13 @@ Plasma Theme
 
 Added icon: face.svg
 
+Changelog: 16.12.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32
+
 
 
