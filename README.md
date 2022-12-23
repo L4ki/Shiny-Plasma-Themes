@@ -1055,4 +1055,12 @@ Plasma Theme
 
 Added icon: audacious.svg
 
+Changelog: 23.12.2022.
+-----------------------
+
+"Shiny-Color-Dark-Icons"
+------------------------
+
+Added new icons: apps 32, 64
+
 
