@@ -1,6 +1,29 @@
 # Shiny-Plasma-Themes
 Shiny Plasma Themes For Plasma Desktop
 
+Shiny Plasma
+------------
+
+Download: https://www.pling.com/p/1633325
+
+
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
+
+
+
 ![1](https://user-images.githubusercontent.com/45247573/201469941-c2006ef0-f892-4315-b058-c8e563c4e24e.jpg)
 
 ![2](https://user-images.githubusercontent.com/45247573/201469945-ee0bb6b0-beab-47fe-acfe-ea7b04ded6d3.png)
@@ -1070,5 +1093,13 @@ Changelog: 25.12.2022.
 -----------------------------------------
 
 Added new icons: apps 32
+
+Changelog: 29.12.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: knotes.svg
 
 
