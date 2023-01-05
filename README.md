@@ -1113,4 +1113,12 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 05.01.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: mellowplayer.svg
+
 
