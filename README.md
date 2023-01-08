@@ -1121,4 +1121,11 @@ Plasma Theme
 
 Added icon: mellowplayer.svg
 
+Changelog: 08.01.2023.
+-----------------------
+
+Icons
+-------
+
+Added new icons: apps 32,48
 
