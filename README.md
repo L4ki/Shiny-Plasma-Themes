@@ -1137,3 +1137,11 @@ Plasma Theme
 
 Update icon: network.svg
 
+Changelog: 16.01.2023.
+-----------------------
+
+Icons
+-------
+
+Added new icons: apps 32,48
+
