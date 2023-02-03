@@ -1171,3 +1171,11 @@ Icons
 
 Added new icons: apps 32,48
 
+Changelog: 03.02.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icons: onboard.svg, offline.svg
+
