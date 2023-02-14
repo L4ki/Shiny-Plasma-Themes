@@ -1187,3 +1187,11 @@ Icons
 
 Added new icons: apps 32,48
 
+Changelog: 14.02.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icons: qbittorrent.svg, list.svg
+
