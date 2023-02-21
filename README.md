@@ -1204,3 +1204,10 @@ Icons
 
 Added new icons: apps 32,48
 
+Changelog: 21.02.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: ring.svg
