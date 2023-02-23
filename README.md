@@ -1211,3 +1211,11 @@ Plasma Theme
 ------------
 
 Added icon: ring.svg
+
+Changelog: 23.02.2023.
+-----------------------
+
+Icons
+-------
+
+Added new icons: apps 32,48
