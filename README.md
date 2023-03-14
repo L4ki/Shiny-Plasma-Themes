@@ -1228,3 +1228,11 @@ Icons
 -------
 
 Added new icons: apps 32,48
+
+Changelog: 14.03.2023.
+-----------------------
+
+Icons
+-------
+
+Added new icons: apps 32,48
