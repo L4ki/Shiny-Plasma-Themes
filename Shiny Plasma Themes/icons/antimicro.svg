@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg14"
+   sodipodi:docname="antimicro.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text { color:#eff0f1; }
+.ColorScheme-Highlight { color:#cdd8e5; }
+</style>
+  <g
+     id="22-22-antimicro"
+     transform="translate(37.999998,10)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect9" />
+    <path
+       id="Game-8-2-3"
+       class="st0  ColorScheme-Highlight"
+       d="M 5.1666663,8.33334 V 9.4 H 4.1 v 1.06666 h 1.0666663 v 1.06668 H 6.233334 V 10.46666 H 7.299999 V 9.4 H 6.233334 V 8.33334 Z M 15.299999,10.2 c 0,0.45334 -0.34666,0.8 -0.8,0.8 -0.453338,0 -0.8,-0.34666 -0.8,-0.8 0,-0.45334 0.346662,-0.8 0.8,-0.8 0.45334,0 0.8,0.34666 0.8,0.8 z m 2.4,0.8 c 0.45334,0 0.8,-0.34666 0.8,-0.8 0,-0.45334 -0.34666,-0.8 -0.8,-0.8 C 17.246659,9.4 16.9,9.74666 16.9,10.2 c 0,0.45334 0.346659,0.8 0.799999,0.8 z M 16.9,11.8 c 0,0.45334 -0.34666,0.8 -0.8,0.8 -0.45334,0 -0.8,-0.34666 -0.8,-0.8 0,-0.45334 0.34666,-0.8 0.8,-0.8 0.45334,0 0.8,0.34666 0.8,0.8 z m 0,-3.2 c 0,0.45334 -0.34666,0.8 -0.8,0.8 -0.45334,0 -0.8,-0.34666 -0.8,-0.8 0,-0.45334 0.34666,-0.8 0.8,-0.8 0.45334,0 0.8,0.34666 0.8,0.8 z M 2.5,9.4 v 6.93334 c 0,0.88 0.72,1.599998 1.6,1.599998 h 0.48 c 1.013334,0 1.946666,-0.559998 2.373334,-1.466678 l 1.413332,-2.8 h 5.333333 l 1.65334,3.28 c 0.293321,0.58668 0.90666,0.986678 1.57332,0.986678 1.46668,0 2.640001,-1.173338 2.640001,-2.639998 V 8.86666 C 19.56666,7.4 18.366659,6.2 16.9,6.2 H 14.76666 L 13.699999,7.26666 H 8.366666 L 7.299999,6.2 H 5.7 C 3.94,6.2 2.5,7.64 2.5,9.4 Z"
+       style="stroke-width:0.26666;fill-rule:evenodd;fill-opacity:1;fill:#eff0f1;clip-rule:evenodd" />
+    <path
+       id="Game-s-7-2-6"
+       class="st1  ColorScheme-Text"
+       d="m 14.766659,3 v 0.53334 c 0,0.88 -0.719998,1.6 -1.599995,1.6 h -1.066665 c -0.293335,0 -0.533335,0.24 -0.533335,0.53332 V 6.2 H 10.5 V 5.66666 c 0,-0.88 0.72,-1.6 1.599999,-1.6 h 1.066665 c 0.293335,0 0.533335,-0.24 0.533335,-0.53332 V 3 Z m 2.13334,14.933338 V 19 c 1.46666,0 2.66666,-1.2 2.66666,-2.66666 V 12.6 h -1.06666 v 3.73334 c 0,0.88 -0.72,1.599998 -1.6,1.599998 z M 13.433336,13.13334 H 7.513333 l -1.946667,3.92 C 5.3,17.58666 4.74,17.933338 4.1266666,17.933338 H 4.1000001 V 19 h 0.026666 c 1.0133335,0 1.9466676,-0.56 2.3733336,-1.46666 L 8.153334,14.2 h 5.813327 z"
+       style="stroke-width:0.26666;fill-opacity:1;fill:#009fff" />
+  </g>
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cccccc"
+     showgrid="false"
+     inkscape:zoom="10.429825"
+     inkscape:cx="11.361648"
+     inkscape:cy="17.018502"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1266"
+       originx="1e-06"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5">
+    <style
+       type="text/css"
+       id="style9" />
+  </defs>
+  <g
+     id="antimicro">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect4" />
+    <path
+       id="Game-8-2"
+       class="st0  ColorScheme-Highlight"
+       d="m 7.2,12 v 1.6 H 5.6 v 1.6 h 1.6 v 1.6 h 1.6 v -1.6 h 1.599999 V 13.6 H 8.8 V 12 Z m 15.199999,2.8 c 0,0.68 -0.52,1.2 -1.2,1.2 -0.68,0 -1.2,-0.52 -1.2,-1.2 0,-0.68 0.52,-1.2 1.2,-1.2 0.68,0 1.2,0.52 1.2,1.2 z m 3.6,1.2 c 0.68,0 1.2,-0.52 1.2,-1.2 0,-0.68 -0.52,-1.2 -1.2,-1.2 -0.68,0 -1.199999,0.52 -1.199999,1.2 0,0.68 0.519999,1.2 1.199999,1.2 z M 24.8,17.2 c 0,0.68 -0.52,1.2 -1.2,1.2 -0.68,0 -1.2,-0.52 -1.2,-1.2 0,-0.68 0.52,-1.2 1.2,-1.2 0.68,0 1.2,0.52 1.2,1.2 z m 0,-4.8 c 0,0.68 -0.52,1.2 -1.2,1.2 -0.68,0 -1.2,-0.52 -1.2,-1.2 0,-0.68 0.52,-1.2 1.2,-1.2 0.68,0 1.2,0.52 1.2,1.2 z M 3.2,13.6 V 24 c 0,1.32 1.08,2.4 2.4,2.4 h 0.72 c 1.52,0 2.92,-0.84 3.56,-2.2 L 12,20 h 7.999999 l 2.48,4.92 c 0.440001,0.88 1.36,1.48 2.36,1.48 2.2,0 3.960001,-1.76 3.960001,-3.96 V 12.8 c 0,-2.2 -1.800001,-4 -4,-4 h -3.2 l -1.600001,1.6 H 12 L 10.399999,8.8 H 8 c -2.64,0 -4.8,2.16 -4.8,4.8 z"
+       style="stroke-width:0.4;fill-rule:evenodd;fill-opacity:1;fill:#eff0f1;clip-rule:evenodd" />
+    <path
+       id="Game-s-7-2"
+       class="st1  ColorScheme-Text"
+       d="m 21.599999,4 v 0.8 c 0,1.32 -1.08,2.4 -2.4,2.4 h -1.6 c -0.44,0 -0.8,0.36 -0.8,0.8 V 8.8 H 15.2 V 8 c 0,-1.32 1.08,-2.4 2.399999,-2.4 h 1.6 c 0.44,0 0.8,-0.36 0.8,-0.8 V 4 Z m 3.2,22.4 V 28 c 2.2,0 4,-1.8 4,-4 v -5.6 h -1.6 V 24 c 0,1.32 -1.08,2.4 -2.4,2.4 z m -5.2,-7.2 h -8.88 L 7.8,25.08 C 7.4,25.88 6.56,26.4 5.64,26.4 H 5.6 V 28 h 0.04 c 1.52,0 2.92,-0.84 3.56,-2.2 l 2.48,-5 h 8.719999 z"
+       style="stroke-width:0.4;fill-opacity:1;fill:#009fff" />
+  </g>
+</svg>
