@@ -1273,7 +1273,7 @@ Changelog: 23.04.2023.
 Plasma Theme
 ------------
 
-Updatye widget:  viewitem.svg
+Update widget:  viewitem.svg
 
 
 Icons
