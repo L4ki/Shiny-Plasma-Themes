@@ -1282,3 +1282,18 @@ Icons
 Added new icons: apps 32,48
 
 
+Changelog: 30.04.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: listitem.svg
+
+
+Icons
+-------
+
+Added new icons: apps 32,48
+
+
