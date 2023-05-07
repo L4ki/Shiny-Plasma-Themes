@@ -1297,3 +1297,17 @@ Icons
 Added new icons: apps 32,48
 
 
+Changelog: 07.05.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widget: line.svg
+
+
+Icons
+-------
+
+Added new icons: apps 32,48
+
