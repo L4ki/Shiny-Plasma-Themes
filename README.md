@@ -1311,3 +1311,17 @@ Icons
 
 Added new icons: apps 32,48
 
+Changelog: 21.05.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Update widgets: panel-background.svg
+
+
+Icons
+-------
+
+Added new icons: apps 32,48
+
