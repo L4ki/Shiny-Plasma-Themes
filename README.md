@@ -1338,3 +1338,16 @@ Icons
 
 Added new icons: apps 32,48
 
+Changelog: 04.06.2023.
+-----------------------
+
+Plasma Theme
+------------
+Added icon: office.svg
+
+
+Icons
+-------
+
+Added new icons: apps 32,48
+
