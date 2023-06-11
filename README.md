@@ -1345,6 +1345,18 @@ Plasma Theme
 ------------
 Added icon: office.svg
 
+Icons
+-------
+
+Added new icons: apps 32,48
+
+Changelog: 11.06.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: kdf.svg
 
 Icons
 -------
