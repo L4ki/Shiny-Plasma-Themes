@@ -1363,3 +1363,22 @@ Icons
 
 Added new icons: apps 32,48
 
+
+Changelog: 18.06.2023.
+-----------------------
+
+Aurorae Themes
+--------------
+
+Update: Auroraerc
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update: metadata.desktop
+
