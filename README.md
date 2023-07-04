@@ -1406,5 +1406,5 @@ Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
-Update widget: 
+Update widget: slider.svg
 
