@@ -1408,3 +1408,11 @@ Plasma Theme
 
 Update widget: slider.svg
 
+Changelog: 11.07.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
