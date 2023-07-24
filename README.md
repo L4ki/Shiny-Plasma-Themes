@@ -1437,3 +1437,11 @@ Plasma Theme
 -------------
 
 Added widget: translucentbackground.svg
+
+Changelog: 25.07.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
