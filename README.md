@@ -1453,3 +1453,11 @@ Plasma Theme
 -------------
 
 Added widget: radiobutton.svg
+
+Changelog: 01.08.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
