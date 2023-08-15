@@ -1485,3 +1485,11 @@ Plasma Theme
 -------------
 
 Added widget: monitor.svg
+
+Changelog: 15.08.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
