@@ -1510,3 +1510,12 @@ Icons
 ------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 27.08.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added widget: media-delegate.svg
