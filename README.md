@@ -1560,3 +1560,11 @@ Icons
 ------
 
 Added new icons: apps 32, 48
+
+Changelog: 19.09.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added widget: frame.svg
