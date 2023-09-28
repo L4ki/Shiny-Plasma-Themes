@@ -1584,3 +1584,11 @@ Plasma Theme
 -------------
 
 Added widget: menubaritem.svg
+
+Changelog: 28.09.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
