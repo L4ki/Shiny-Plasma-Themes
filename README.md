@@ -1617,3 +1617,11 @@ Plasma Theme
 
 Added widget: picker.svg
 
+Changelog: 12.10.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
