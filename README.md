@@ -1625,3 +1625,12 @@ Icons
 
 Added new icons: apps 32, 48
 
+
+Changelog: 17.10.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
