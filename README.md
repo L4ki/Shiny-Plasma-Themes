@@ -1634,3 +1634,12 @@ Plasma Theme
 
 Update widget: line.svg
 
+
+Changelog: 19.10.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
