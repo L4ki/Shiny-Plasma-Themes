@@ -1643,3 +1643,9 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 24.10.2023.
+-----------------------
+
+Plasma Theme
+-------------
+Added widget: plot-background.svg
