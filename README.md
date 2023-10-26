@@ -1649,3 +1649,12 @@ Changelog: 24.10.2023.
 Plasma Theme
 -------------
 Added widget: plot-background.svg
+
+
+Changelog: 26.10.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
