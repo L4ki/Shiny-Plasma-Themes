@@ -1658,3 +1658,11 @@ Icons
 ------
 
 Added new icons: apps 32, 48
+
+Changelog: 02.11.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
