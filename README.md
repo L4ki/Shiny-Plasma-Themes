@@ -1674,3 +1674,12 @@ Icons
 ------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 15.10.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: search.svg
