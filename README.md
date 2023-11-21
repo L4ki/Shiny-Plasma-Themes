@@ -1683,3 +1683,11 @@ Plasma Theme
 -------------
 
 Added icon: search.svg
+
+Changelog: 21.11.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
