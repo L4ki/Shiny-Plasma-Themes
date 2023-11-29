@@ -1699,3 +1699,16 @@ Plasma Theme
 -------------
 
 Added icon: widget.svg
+
+Changelog: 29.11.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: transform.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
