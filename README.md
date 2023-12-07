@@ -1719,9 +1719,14 @@ Changelog: 06.12.2023.
 Plasma Theme
 -------------
 
-Added icon: transform.svg
+Added widget: analog_meter.svg
 
 Icons
 ------
 
 Added new icons: apps 32, 48
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
