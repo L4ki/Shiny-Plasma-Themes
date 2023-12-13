@@ -1730,3 +1730,12 @@ Aurorae Themes
 ---------------
 
 Update: decoration.svg
+
+
+Changelog: 13.12.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
