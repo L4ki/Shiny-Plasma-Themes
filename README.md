@@ -1739,3 +1739,16 @@ Icons
 ------
 
 Added new icons: apps 32, 48
+
+Changelog: 14.12.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc.svg
