@@ -1740,7 +1740,15 @@ Icons
 
 Added new icons: apps 32, 48
 
-Changelog: 14.12.2023.
+Changelog: 20.12.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Changelog: 21.12.2023.
 -----------------------
 
 Plasma Theme
@@ -1752,11 +1760,3 @@ Aurorae Themes
 ---------------
 
 Update: Auroraerc.svg
-
-Changelog: 20.12.2023.
------------------------
-
-Icons
-------
-
-Added new icons: apps 32, 48
