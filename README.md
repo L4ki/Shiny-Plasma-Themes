@@ -1760,3 +1760,11 @@ Aurorae Themes
 ---------------
 
 Update: Auroraerc.svg
+
+Changelog: 27.12.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
